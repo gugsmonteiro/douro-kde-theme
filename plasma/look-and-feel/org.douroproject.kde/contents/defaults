@@ -1,0 +1,14 @@
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kdeglobals][General]
+ColorScheme=Douro
+
+[kdeglobals][Icons]
+Theme=Numix-Circle
+
+[plasmarc][Theme]
+name=org.douroproject.kde
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
