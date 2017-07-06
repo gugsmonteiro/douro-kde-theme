@@ -1,7 +1,7 @@
 Douro pack for KDE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gugsmonteiro/douro-kde-theme/blob/master/preview.png" alt="Preview Douro KDE"/>
+  <img src="https://github.com/gugsmonteiro/douro-kde-theme/blob/master/preview.png?raw=true" alt="Preview Douro KDE"/>
 </p>
 
 ### Installation
