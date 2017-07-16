@@ -11,12 +11,6 @@ git clone https://github.com/gugsmonteiro/douro-kde-theme
 cd douro-kde-theme
 sudo make install
 ```
-Remove:
-```
-git clone https://github.com/gugsmonteiro/douro-kde-theme
-cd douro-kde-theme
-sudo make unistall
-```
 ### Code and license
 
 License: GPL-3.0+
